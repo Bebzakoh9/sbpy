@@ -1,0 +1,16 @@
+{
+    "Autokick": {},
+    "Protectcancl": {},
+    "Protectgr": {},
+    "Protectinvite": {},
+    "Protectjoin": {},
+    "bymsg": false,
+    "intaPoint": {},
+    "proPoint": {},
+    "proTime": {},
+    "prosider": {
+        "c4c57a5d2bf4e98915c247cf211c95975": true,
+        "cae91b250ff98bd6c83ffa1650be1bbcf": true
+    },
+    "wellcome": false
+}
